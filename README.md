@@ -12,6 +12,7 @@ sobre o banco de dados:
   - instrutores.programadores
   
 </br>
+
 ## Modelo Lógico
 
 ![imagem](https://github.com/bielkh/Modulo4-ProjetoIndividual/blob/main/modelo%20logico.png)
